@@ -8,7 +8,7 @@ I’m **Ilakk Manoharan**, a **Comb-shaped Developer** with **15+ years of exper
 - 👯 I’m looking to collaborate on **open-source projects, security best practices, cloud-native development, and data engineering initiatives**.  
 - 💬 Ask me about **Java, Python, Swift, Spring Boot, IAM (OAuth 2.0, OIDC, SAML), AWS, GCP, Databases, Data Engineering, Data Science, and ML**.  
 - 📫 How to reach me: **ilakkmanoharan@gmail.com**
-  - **LinkedIn:** [https://www.linkedin.com/in/ilakkmanoharan]  
+  - **LinkedIn:** [https://linkedin.com/in/ilakkmanoharan]  
   - **GitHub:** [https://github.com/ilakkmanoharan]
   - **Medium:** [https://medium.com/@ilakk2023]
   - **YouTube:** [www.youtube.com/@ilakkmanoharan3011] 
